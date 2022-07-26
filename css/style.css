@@ -1,0 +1,24 @@
+.header-bg-info {
+    background-color: #FFFBF0;
+}
+
+.font-size-h1 {
+    font-size: 80px;
+
+}
+
+.font-color {
+    color: #FABE4C;
+}
+
+.font-color2 {
+    color: #363958;
+}
+
+.button-color {
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
+
+.product-img-bg-success {
+    background-color: #F1F1F1;
+}
